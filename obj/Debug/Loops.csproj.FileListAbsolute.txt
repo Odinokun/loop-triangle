@@ -1,0 +1,7 @@
+D:\Dropbox\_currently_works\c#\Loops\bin\Debug\Loops.exe.config
+D:\Dropbox\_currently_works\c#\Loops\bin\Debug\Loops.exe
+D:\Dropbox\_currently_works\c#\Loops\bin\Debug\Loops.pdb
+D:\Dropbox\_currently_works\c#\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+D:\Dropbox\_currently_works\c#\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\Dropbox\_currently_works\c#\Loops\obj\Debug\Loops.exe
+D:\Dropbox\_currently_works\c#\Loops\obj\Debug\Loops.pdb
