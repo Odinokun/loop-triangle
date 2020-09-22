@@ -10,7 +10,7 @@ namespace Loops
     {
         static void Main(string[] args)
         {
-            //begin first triangle
+            Console.WriteLine("========first triangle==========");
             for (int i = 1; i < 5; i++)
             {
                 for (int k = 0; k < i; k++)
@@ -19,8 +19,8 @@ namespace Loops
                 }
                 Console.WriteLine("");
             }
-            Console.WriteLine("==================");
-            //begin first triangle
+
+            Console.WriteLine("========second triangle==========");
             for (int i = 4; i > 0; i--)
             {
                 for (int k = 0; k < i; k++)
@@ -29,6 +29,42 @@ namespace Loops
                 }
                 Console.WriteLine("");
             }
+
+            Console.WriteLine("========third triangle==========");
+            for (int i = 1; i < 5; i++)
+            {
+                int space = 4;
+
+                for(int j = space - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
+            }
+
+            Console.WriteLine("========fourth triangle==========");
+            for (int i = 4; i > 0; i--)
+            {
+                int space = 4;
+
+                for(int j = space - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
+            }
+
+
         }
     }
 }
